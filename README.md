@@ -52,7 +52,7 @@ Every point added to the 0–100 risk score comes with a clear, audited rule:
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/Ayush441-python/AUREN.git
+git clone https://github.com/jimenemy/AUREN.git
 cd AUREN
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
